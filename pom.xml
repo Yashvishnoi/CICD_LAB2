@@ -5,7 +5,7 @@
     <snapshotRepository>
       <id>nexus</id>
       <name>nexus></name>
-      <url>http://http://localhost:8081/repository/nexus/</url>
+      <url>http://localhost:8081/repository/nexus/</url>
     </snapshotRepository>
   </distributionManagement>
   <artifactId>cicdlab2</artifactId>
